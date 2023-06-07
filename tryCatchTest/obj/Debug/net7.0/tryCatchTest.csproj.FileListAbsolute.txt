@@ -1,0 +1,15 @@
+/Users/fuyachao/Projects/test2/tryCatchTest/bin/Debug/net7.0/tryCatchTest
+/Users/fuyachao/Projects/test2/tryCatchTest/bin/Debug/net7.0/tryCatchTest.deps.json
+/Users/fuyachao/Projects/test2/tryCatchTest/bin/Debug/net7.0/tryCatchTest.runtimeconfig.json
+/Users/fuyachao/Projects/test2/tryCatchTest/bin/Debug/net7.0/tryCatchTest.dll
+/Users/fuyachao/Projects/test2/tryCatchTest/bin/Debug/net7.0/tryCatchTest.pdb
+/Users/fuyachao/Projects/test2/tryCatchTest/obj/Debug/net7.0/tryCatchTest.csproj.AssemblyReference.cache
+/Users/fuyachao/Projects/test2/tryCatchTest/obj/Debug/net7.0/tryCatchTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fuyachao/Projects/test2/tryCatchTest/obj/Debug/net7.0/tryCatchTest.AssemblyInfoInputs.cache
+/Users/fuyachao/Projects/test2/tryCatchTest/obj/Debug/net7.0/tryCatchTest.AssemblyInfo.cs
+/Users/fuyachao/Projects/test2/tryCatchTest/obj/Debug/net7.0/tryCatchTest.csproj.CoreCompileInputs.cache
+/Users/fuyachao/Projects/test2/tryCatchTest/obj/Debug/net7.0/tryCatchTest.dll
+/Users/fuyachao/Projects/test2/tryCatchTest/obj/Debug/net7.0/refint/tryCatchTest.dll
+/Users/fuyachao/Projects/test2/tryCatchTest/obj/Debug/net7.0/tryCatchTest.pdb
+/Users/fuyachao/Projects/test2/tryCatchTest/obj/Debug/net7.0/tryCatchTest.genruntimeconfig.cache
+/Users/fuyachao/Projects/test2/tryCatchTest/obj/Debug/net7.0/ref/tryCatchTest.dll

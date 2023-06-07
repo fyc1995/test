@@ -1,0 +1,15 @@
+/Users/fuyachao/Projects/test2/delegateTest/obj/Debug/net7.0/delegateTest.csproj.AssemblyReference.cache
+/Users/fuyachao/Projects/test2/delegateTest/obj/Debug/net7.0/delegateTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fuyachao/Projects/test2/delegateTest/obj/Debug/net7.0/delegateTest.AssemblyInfoInputs.cache
+/Users/fuyachao/Projects/test2/delegateTest/obj/Debug/net7.0/delegateTest.AssemblyInfo.cs
+/Users/fuyachao/Projects/test2/delegateTest/obj/Debug/net7.0/delegateTest.csproj.CoreCompileInputs.cache
+/Users/fuyachao/Projects/test2/delegateTest/bin/Debug/net7.0/delegateTest
+/Users/fuyachao/Projects/test2/delegateTest/bin/Debug/net7.0/delegateTest.deps.json
+/Users/fuyachao/Projects/test2/delegateTest/bin/Debug/net7.0/delegateTest.runtimeconfig.json
+/Users/fuyachao/Projects/test2/delegateTest/bin/Debug/net7.0/delegateTest.dll
+/Users/fuyachao/Projects/test2/delegateTest/bin/Debug/net7.0/delegateTest.pdb
+/Users/fuyachao/Projects/test2/delegateTest/obj/Debug/net7.0/delegateTest.dll
+/Users/fuyachao/Projects/test2/delegateTest/obj/Debug/net7.0/refint/delegateTest.dll
+/Users/fuyachao/Projects/test2/delegateTest/obj/Debug/net7.0/delegateTest.pdb
+/Users/fuyachao/Projects/test2/delegateTest/obj/Debug/net7.0/delegateTest.genruntimeconfig.cache
+/Users/fuyachao/Projects/test2/delegateTest/obj/Debug/net7.0/ref/delegateTest.dll

@@ -1,0 +1,15 @@
+/Users/fuyachao/Projects/test2/event_test/bin/Debug/net7.0/event_test
+/Users/fuyachao/Projects/test2/event_test/bin/Debug/net7.0/event_test.deps.json
+/Users/fuyachao/Projects/test2/event_test/bin/Debug/net7.0/event_test.runtimeconfig.json
+/Users/fuyachao/Projects/test2/event_test/bin/Debug/net7.0/event_test.dll
+/Users/fuyachao/Projects/test2/event_test/bin/Debug/net7.0/event_test.pdb
+/Users/fuyachao/Projects/test2/event_test/obj/Debug/net7.0/event_test.csproj.AssemblyReference.cache
+/Users/fuyachao/Projects/test2/event_test/obj/Debug/net7.0/event_test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fuyachao/Projects/test2/event_test/obj/Debug/net7.0/event_test.AssemblyInfoInputs.cache
+/Users/fuyachao/Projects/test2/event_test/obj/Debug/net7.0/event_test.AssemblyInfo.cs
+/Users/fuyachao/Projects/test2/event_test/obj/Debug/net7.0/event_test.csproj.CoreCompileInputs.cache
+/Users/fuyachao/Projects/test2/event_test/obj/Debug/net7.0/event_test.dll
+/Users/fuyachao/Projects/test2/event_test/obj/Debug/net7.0/refint/event_test.dll
+/Users/fuyachao/Projects/test2/event_test/obj/Debug/net7.0/event_test.pdb
+/Users/fuyachao/Projects/test2/event_test/obj/Debug/net7.0/event_test.genruntimeconfig.cache
+/Users/fuyachao/Projects/test2/event_test/obj/Debug/net7.0/ref/event_test.dll

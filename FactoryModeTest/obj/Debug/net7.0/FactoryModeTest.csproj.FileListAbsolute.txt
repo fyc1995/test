@@ -1,0 +1,15 @@
+/Users/fuyachao/Projects/test2/FactoryModeTest/obj/Debug/net7.0/FactoryModeTest.csproj.AssemblyReference.cache
+/Users/fuyachao/Projects/test2/FactoryModeTest/obj/Debug/net7.0/FactoryModeTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fuyachao/Projects/test2/FactoryModeTest/obj/Debug/net7.0/FactoryModeTest.AssemblyInfoInputs.cache
+/Users/fuyachao/Projects/test2/FactoryModeTest/obj/Debug/net7.0/FactoryModeTest.AssemblyInfo.cs
+/Users/fuyachao/Projects/test2/FactoryModeTest/obj/Debug/net7.0/FactoryModeTest.csproj.CoreCompileInputs.cache
+/Users/fuyachao/Projects/test2/FactoryModeTest/bin/Debug/net7.0/FactoryModeTest
+/Users/fuyachao/Projects/test2/FactoryModeTest/bin/Debug/net7.0/FactoryModeTest.deps.json
+/Users/fuyachao/Projects/test2/FactoryModeTest/bin/Debug/net7.0/FactoryModeTest.runtimeconfig.json
+/Users/fuyachao/Projects/test2/FactoryModeTest/bin/Debug/net7.0/FactoryModeTest.dll
+/Users/fuyachao/Projects/test2/FactoryModeTest/bin/Debug/net7.0/FactoryModeTest.pdb
+/Users/fuyachao/Projects/test2/FactoryModeTest/obj/Debug/net7.0/FactoryModeTest.dll
+/Users/fuyachao/Projects/test2/FactoryModeTest/obj/Debug/net7.0/refint/FactoryModeTest.dll
+/Users/fuyachao/Projects/test2/FactoryModeTest/obj/Debug/net7.0/FactoryModeTest.pdb
+/Users/fuyachao/Projects/test2/FactoryModeTest/obj/Debug/net7.0/FactoryModeTest.genruntimeconfig.cache
+/Users/fuyachao/Projects/test2/FactoryModeTest/obj/Debug/net7.0/ref/FactoryModeTest.dll

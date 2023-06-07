@@ -1,0 +1,15 @@
+/Users/fuyachao/Projects/test2/lamda/bin/Debug/net7.0/lamda
+/Users/fuyachao/Projects/test2/lamda/bin/Debug/net7.0/lamda.deps.json
+/Users/fuyachao/Projects/test2/lamda/bin/Debug/net7.0/lamda.runtimeconfig.json
+/Users/fuyachao/Projects/test2/lamda/bin/Debug/net7.0/lamda.dll
+/Users/fuyachao/Projects/test2/lamda/bin/Debug/net7.0/lamda.pdb
+/Users/fuyachao/Projects/test2/lamda/obj/Debug/net7.0/lamda.csproj.AssemblyReference.cache
+/Users/fuyachao/Projects/test2/lamda/obj/Debug/net7.0/lamda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fuyachao/Projects/test2/lamda/obj/Debug/net7.0/lamda.AssemblyInfoInputs.cache
+/Users/fuyachao/Projects/test2/lamda/obj/Debug/net7.0/lamda.AssemblyInfo.cs
+/Users/fuyachao/Projects/test2/lamda/obj/Debug/net7.0/lamda.csproj.CoreCompileInputs.cache
+/Users/fuyachao/Projects/test2/lamda/obj/Debug/net7.0/lamda.dll
+/Users/fuyachao/Projects/test2/lamda/obj/Debug/net7.0/refint/lamda.dll
+/Users/fuyachao/Projects/test2/lamda/obj/Debug/net7.0/lamda.pdb
+/Users/fuyachao/Projects/test2/lamda/obj/Debug/net7.0/lamda.genruntimeconfig.cache
+/Users/fuyachao/Projects/test2/lamda/obj/Debug/net7.0/ref/lamda.dll
