@@ -5,6 +5,9 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("1212121");
+
+        Console.WriteLine("1212121");
+        Console.WriteLine("我说");
     }
 }
 
